@@ -1,4 +1,4 @@
-# p5js to .png Template
+# p5js Animation to .png Template
 
 This is a template for saving p5.js animations to a png file using [CCpapture.js](https://github.com/spite/ccapture.js/)
 
